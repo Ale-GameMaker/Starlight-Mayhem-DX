@@ -2,7 +2,7 @@
 
 # STARLIGHT MAYHEM DX
 
-### The definitive DX experience of Starlight Mayhem.
+### The definitive DX remaster of Starlight Mayhem.
 
 [![Engine](https://img.shields.io/badge/Engine-Psych%20Engine-blue)](#)
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow)](#)
