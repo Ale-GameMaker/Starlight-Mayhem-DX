@@ -1,0 +1,14 @@
+[
+    {
+        "save": "beat_week_starlight",
+        "name": "Awesome Meeting",
+        "description": "Beat Week Starlight.",
+        "hidden": false
+    },
+    {
+        "save": "fc_week_starlight",
+        "name": "Awesome Meeting",
+        "description": "Beat Week Starlight with no misses.",
+        "hidden": true
+    }
+]

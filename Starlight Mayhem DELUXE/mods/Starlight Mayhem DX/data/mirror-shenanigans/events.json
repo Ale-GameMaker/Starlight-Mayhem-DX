@@ -1,0 +1,659 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "amargedbutnooley",
+		"player1": "chrismad",
+		"player2": "chris2",
+		"player3": null,
+		"events": [
+			[
+				14000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				14031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				14250,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				14281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				14500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				14531.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				14750,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				14781.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				15031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				15250,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				15281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				15500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				15531.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				15750,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				15781.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				62000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				62031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				62250,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				62281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				62500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				62531.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				62750,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				62781.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				63031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				63250,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				63281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				63500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				63531.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				63750,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				63781.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				126031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				126250,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				126281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				126500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				126531.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				126750,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				126781.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				127000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				127031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				127250,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				127281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				127531.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				127750,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				127781.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				160031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				160250,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				160281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				160500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				160531.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				160750,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				160781.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				161000,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				161031.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				161250,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				161281.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				161500,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				161531.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			],
+			[
+				161750,
+				[
+					[
+						"Play Animation",
+						"ha",
+						"fake ha"
+					]
+				]
+			],
+			[
+				161781.25,
+				[
+					[
+						"Add Camera Zoom",
+						"0.050",
+						"0.035"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Mirror Shenanigans"
+	}
+}

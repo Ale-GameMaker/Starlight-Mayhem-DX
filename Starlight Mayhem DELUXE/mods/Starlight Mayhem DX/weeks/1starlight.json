@@ -1,0 +1,45 @@
+{
+	"storyName": "STARLIGHT MAYHEM DELUXE,BABY!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "chillstage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Inverted Ascension",
+			"cj",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Echoes",
+			"ruby",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Artificial Lust",
+			"duet",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Starlight Mayhem DX",
+	"hiddenUntilUnlocked": false
+}

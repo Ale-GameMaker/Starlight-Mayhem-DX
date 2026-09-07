@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				114,
+				-7
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "chris left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				-16
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "chris down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				8,
+				31
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "chris up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				46,
+				-1
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "chris right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "chris idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-8
+			],
+			"anim": "TABLET",
+			"fps": 24,
+			"name": "chris tablet",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-31
+			],
+			"anim": "STOP",
+			"fps": 24,
+			"name": "chris stop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				528,
+				777
+			],
+			"anim": "SCREAM",
+			"fps": 24,
+			"name": "chris transformation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/chrismad",
+	"position": [
+		0,
+		-30
+	],
+	"healthicon": "chris",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		35,
+		255
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

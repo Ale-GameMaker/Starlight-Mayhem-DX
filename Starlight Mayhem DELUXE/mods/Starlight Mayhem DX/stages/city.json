@@ -1,0 +1,33 @@
+{
+	"defaultZoom": 0.8,
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"_editorMeta": {
+		"boyfriend": "bf-cj",
+		"gf": "Vade-gf",
+		"dad": "luna"
+	},
+	"directory": "",
+	"opponent": [
+		800,
+		2070
+	],
+	"boyfriend": [
+		1718,
+		2085
+	],
+	"isPixelStage": false,
+	"girlfriend": [
+		1092,
+		1925
+	]
+}

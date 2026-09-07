@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-2, 377],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cj idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [76, 405],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cj Sing Note RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [60, 373],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cj Sing Note DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [1, 430],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cj Sing Note UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [101, 376],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cj Sing Note LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [68, 617],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "cj miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [47, 374],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "cj miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [350, 546],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "cj miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [569, 1171],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "cj miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [505, 1035],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "1Cj fucking dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [101, 245],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "3Cj fucking dies loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [101, 245],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "2Cj fucking dies confirm",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/playable_CJ",
+	"position": [10, 400],
+	"healthicon": "cj",
+	"flip_x": true,
+	"healthbar_colors": [0, 76, 255],
+	"camera_position": [450, -820],
+	"sing_duration": 4,
+	"scale": 1.05,
+	"_editor_isPlayer": true
+}

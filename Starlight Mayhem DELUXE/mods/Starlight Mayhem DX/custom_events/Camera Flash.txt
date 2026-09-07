@@ -1,0 +1,6 @@
+Camera Flash (Remade by KJP)
+Flashes the Camera
+
+Value 1: Speed (Default is 1)
+
+Leave it blank for Default.

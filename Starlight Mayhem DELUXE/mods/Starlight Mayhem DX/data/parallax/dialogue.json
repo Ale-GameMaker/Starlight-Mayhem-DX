@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Heya, its me, TheMaskedChris, the creator of the mod you are playing.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CRIS"
+		},
+		{
+			"expression": "talk",
+			"text": "And first, thank you so much for playing the mod, all your support means the world to me and the team, and im very glad you all enjoyed it.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CRIS"
+		},
+		{
+			"expression": "talk",
+			"text": "Second, this is not week 2, we are currently working hard on the second week for starlight mayhem, so give us some time, good things come with time and hardwork.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CRIS"
+		},
+		{
+			"expression": "talk",
+			"text": "Then why did you put effort on this bonus week instead of my week sweetie?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ski"
+		},
+		{
+			"expression": "talk",
+			"text": "Honestly I don't know what happened, this was only supposed to be one bonus song, and then I passed out and suddenly there were 2 more songs.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CRIS"
+		},
+		{
+			"expression": "talk",
+			"text": "*sigh* Whatever you say big boy, I just hope you and your team are putting the hardwork to make my week delightful!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ski"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah yeah whatever you say.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CRIS"
+		},
+		{
+			"expression": "talk",
+			"text": "As I was saying, these bonus songs were just gonna be freeplay songs.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CRIS"
+		},
+		{
+			"expression": "talk",
+			"text": "So don't expect any dialogue or story out of these.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CRIS"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways, thank you for playing Starlight Mayhem, and please enjoy these funky songs!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CRIS"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, and check the freeplay menu after you are done, kay?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "CRIS"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gwen",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello, hello, hello! Thank you for playing Starlight Mayhem DX!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gwen",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is a fan project of mine, the original creator is TheMaskedChris (he was here a while ago lol)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gwen",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hope you enjoyed it! :3"
+		}
+	]
+}

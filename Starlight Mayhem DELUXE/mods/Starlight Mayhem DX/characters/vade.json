@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [23, 213],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF Note DOWN"
+		},
+		{
+			"offsets": [-136, 274],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF dance"
+		},
+		{
+			"offsets": [-132, 310],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF Note UP"
+		},
+		{
+			"offsets": [-77, 247],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF Note RIGHT"
+		},
+		{
+			"offsets": [-44, 252],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF Note LEFT"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/vade",
+	"position": [-50, 280],
+	"healthicon": "vade",
+	"flip_x": false,
+	"healthbar_colors": [202, 0, 0],
+	"camera_position": [110, -270],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"Mi Querido",
+			"luna",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Soda Disco Funk",
+			"luna",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Hotline",
+			"luna",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "lunastage",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Vs Luna: By themaskedchris",
+	"weekName": "Luna",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

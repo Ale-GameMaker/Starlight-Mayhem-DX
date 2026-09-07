@@ -1,0 +1,4 @@
+<TextureAtlas imagePath="gwen_dialogue.png">
+	<SubTexture name="GWENNY0000" x="0" y="0" width="347" height="472"/>
+	<SubTexture name="Gwen PISSED0000" x="347" y="0" width="347" height="472"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+Change Camera Zoom (Coded by KJP)
+Changes the Camera Zoom
+
+Value 1: Zoom (Default is 0.9)
+
+Leave it blank for Default.

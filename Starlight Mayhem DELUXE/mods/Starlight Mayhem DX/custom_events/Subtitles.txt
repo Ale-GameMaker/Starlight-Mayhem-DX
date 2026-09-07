@@ -1,0 +1,5 @@
+its uhhh subtitles lol
+
+Value 1 = Text
+
+Value 2 = Color, i think?
