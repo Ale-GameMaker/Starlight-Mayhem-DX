@@ -1,67 +1,120 @@
 <div align="center">
 
-# ✦ STARLIGHT MAYHEM DX ✦
+# STARLIGHT MAYHEM DX
 
 ### The definitive DX experience of Starlight Mayhem.
 
-[![Engine](https://img.shields.io/badge/Engine-Psych%20Engine-blue)](...)
-[![Status](https://img.shields.io/badge/Status-In%20Development-yellow)](...)
-[![Version](https://img.shields.io/badge/Version-DX-purple)](...)
+[![Engine](https://img.shields.io/badge/Engine-Psych%20Engine-blue)](#)
+[![Status](https://img.shields.io/badge/Status-In%20Development-yellow)](#)
+[![Version](https://img.shields.io/badge/Version-DX-purple)](#)
 
 </div>
 
 ---
 
-## ✦ ABOUT
+## ABOUT
 
-**Starlight Mayhem DX** is a remastered and expanded
-experience based on the original Starlight Mayhem mod.
+**Starlight Mayhem DX** is a remastered and expanded experience based on
+**Friday Night Funkin': Starlight Mayhem** and **Starlight Mayhem: Rebooted**.
 
-Featuring improved visuals, custom HUD elements,
-new gameplay mechanics, remastered assets and more.
-
----
-
-## ✦ FEATURES
-
-- 🎵 Remastered soundtrack
-- ✨ Custom HUD
-- 🎨 Improved visuals
-- ⚡ Custom gameplay mechanics
-- 📜 Custom dialogue
-- 🎭 New/updated characters
-- 🔧 Extensive Lua scripting
-- 💫 DX-exclusive content
+The project aims to expand upon the original experience with improved
+visuals, custom HUD systems, gameplay mechanics, remastered content,
+new scripts and additional features.
 
 ---
 
-## ✦ SCREENSHOTS
+## FEATURES
 
-> Screenshots coming soon...
+- Remastered visuals
+- Custom HUD
+- Custom gameplay mechanics
+- Custom Lua systems
+- Updated charts
+- Remastered music
+- Custom dialogue
+- Improved menus
+- Additional visual effects
+- DX-exclusive content
 
 ---
 
-## ✦ INSTALLATION
+## SCREENSHOTS
+
+Screenshots and gameplay footage will be added as development continues.
+
+---
+
+## INSTALLATION
 
 1. Download the latest release.
 2. Extract the files.
 3. Place the mod in your Psych Engine `mods` folder.
 4. Launch the game.
-5. Have fun. ✦
+5. Select Starlight Mayhem DX.
 
 ---
 
-## ✦ CREDITS
+## ORIGINAL CREDITS
 
-### STMDX Team
-**Ale** — Director / Programmer / Composer / etc.
+Starlight Mayhem was originally created by **TheMaskedChris**.
 
-### Original Starlight Mayhem
-Credits to the original creators and contributors.
+### Starlight Mayhem: Rebooted
+
+The Rebooted version was developed by a larger team, including:
+
+- **TheMaskedChris** — Director / Artist
+- **Ash237** — Programmer
+- **Cerbera** — Charter
+- **Ridinginthered** — Vocals
+- **Miyno_** — Vocals
+- **Mudstep** — Instrumentals
+- **Operate Manuel** — Additional Creative Help
+- **bastiano** — BF/GF Assets
+- **Verwex** — Mic'd Up Engine
+- **Shadowfi** — Programmer
+- **4AXION** — Programmer
+- **RiverOaken** — Art / Animation
+- **Ohya** — Album Art
+- **MorningEggnog** — UI Design
+- **ScorchVx** — Logo Redesign
+- **Saster** — Composer
+- **Saruky** — Vocals / IA / Echoes
+- **KiwiBurd** — Writing / Video Editing
+- **Corruptzie** — Writing
+- **Aidan** — Writing
+- **Cougar MacDowall** — CJ Voice
+- **Jea** — Vade Voice
+
+Additional contributors are credited in the original project.
+
+This project is not affiliated with or endorsed by the original
+Starlight Mayhem development team.
 
 ---
 
-## ✦ LICENSE
+## STMDX CREDITS
 
-See `LICENSE` for information regarding redistribution
-and third-party assets.
+### STMDX
+
+**Ale** — Director / Developer
+
+Additional contributors will be listed here as the project develops.
+
+---
+
+## DISCLAIMER
+
+Starlight Mayhem and its original characters, music, artwork and other
+original assets belong to their respective creators.
+
+Starlight Mayhem DX is a fan-made project and is not an official
+continuation of Starlight Mayhem.
+
+Please support the original creators and their work.
+
+---
+
+## LICENSE
+
+See `LICENSE` for information regarding the distribution of this
+project and its original content.
