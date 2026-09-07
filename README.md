@@ -15,7 +15,7 @@
 ## ABOUT
 
 **Starlight Mayhem DX** is a remastered and expanded experience based on
-**Friday Night Funkin': Starlight Mayhem** and **Starlight Mayhem: Rebooted**.
+**Friday Night Funkin': Starlight Mayhem: Rebooted**.
 
 The project aims to expand upon the original experience with improved
 visuals, custom HUD systems, gameplay mechanics, remastered content,
